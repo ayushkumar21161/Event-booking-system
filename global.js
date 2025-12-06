@@ -147,7 +147,7 @@
     el.innerHTML = "";
     const links = [
       {text:"Home", href:"index.html"},
-      {text:"Services", href:"our_services.html"},
+      {text:"Services", href:"Our_services.html"},
       {text:"About", href:"about.html"},
       {text:"Contact", href:"contact.html"}
     ];
